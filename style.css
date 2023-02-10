@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: blueviolet;
+    background-color: rgb(198, 198, 222);
+    font-size: 96px;
+    font-weight: 980;
+    text-align: center;
+}
+h2{
+
+
+}
+.bg{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(50, 117, 205);
+    background-image: url('https://files.cercomp.ufg.br/weby/up/84/o/Aten%C3%A7%C3%A3o.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+p{
+text-align: justify;
+text-indent: 90px;
+
+}
